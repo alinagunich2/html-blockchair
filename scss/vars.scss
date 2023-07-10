@@ -1,0 +1,225 @@
+$regular-font-size: 16px;
+$container-max-widths: (
+  sm: 800px,
+  md: 900px,
+  lg: 1260px,
+  xl: 1270px,
+  xxl: 1280px
+) ;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 500px,
+  md: 768px,
+  lg: 920px,
+  xl: 1280px, //те на экранне 1000px cтановится 970px
+  xxl: 1400px
+) ;
+
+$text-dark: (
+    color: rgb(10, 10, 10),
+);
+
+
+$font-size-base: 0.8125rem;
+$h1-font-size:    $font-size-base * 2.85; //37px
+$h2-font-size:    $font-size-base * 1.385; //18px
+$h3-font-size:    $font-size-base * 1.31; //17px
+$h4-font-size:    $font-size-base * 1.23; //16px
+$h5-font-size:    $font-size-base * 1.07; //14.001px
+$h6-font-size:    $font-size-base;
+
+
+
+:root,
+[data-bs-theme=light] {
+  --b-white-25: #f0f8ff13;
+  --b-txt-h:#555;
+  --b-txt-quiet-gray: #8191b5;
+--b-plain-bright: #eff2f9;
+--c-bg-plain: #e7ebf5;
+--b-txt-quiet-gray: #8191b5;
+--b-def: 1px solid #ffffff99;
+ --b-txt-main:#0a0a0a;
+ --c-gray-d4: #131313;
+ --bs-black-100: #000;
+  --bs-blue: #2170ff;
+  --b-def: 1px solid #ffffff99;
+  --bs-blue-250: #216fff4d;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d63384;
+  --bs-red: #dc3545;
+  --bs-orange: #fd7e14;
+  --bs-yellow: #ffc107;
+  --bs-green: #198754;
+  --bs-teal: #20c997;
+  --bs-cyan: #0dcaf0;
+  --bs-black: #000;
+  --bs-white: #fff;
+  --bs-gray: #6c757d;
+  --bs-gray-dark: #343a40;
+  --bs-gray-100: #f8f9fa;
+  --bs-gray-200: #e9ecef;
+  --bs-gray-300: #dee2e6;
+  --bs-gray-400: #aaaaaa;
+  --bs-gray-500: #adb5bd;
+  --bs-gray-600: #656565;
+  --bs-gray-700: #495057;
+  --bs-gray-800: #343a40;
+  --bs-gray-900: #131313;
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
+  --bs-primary-rgb: 13, 110, 253;
+  --bs-secondary-rgb: 108, 117, 125;
+  --bs-success-rgb: 25, 135, 84;
+  --bs-info-rgb: 13, 202, 240;
+  --bs-warning-rgb: 255, 193, 7;
+  --bs-danger-rgb: 220, 53, 69;
+  --bs-light-rgb: 248, 249, 250;
+  --bs-dark-rgb: 33, 37, 41;
+  --bs-primary-text: #0a58ca;
+  --bs-secondary-text: #6c757d;
+  --bs-success-text: #146c43;
+  --bs-info-text: #087990;
+  --bs-warning-text: #997404;
+  --bs-danger-text: #b02a37;
+  --bs-light-text: #6c757d;
+  --bs-dark-text: #495057;
+  --bs-primary-bg-subtle: #cfe2ff;
+  --bs-secondary-bg-subtle: #f8f9fa;
+  --bs-success-bg-subtle: #d1e7dd;
+  --bs-info-bg-subtle: #cff4fc;
+  --bs-warning-bg-subtle: #fff3cd;
+  --bs-danger-bg-subtle: #f8d7da;
+  --bs-light-bg-subtle: #fcfcfd;
+  --bs-dark-bg-subtle: #ced4da;
+  --bs-primary-border-subtle: #9ec5fe;
+  --bs-secondary-border-subtle: #e9ecef;
+  --bs-success-border-subtle: #a3cfbb;
+  --bs-info-border-subtle: #9eeaf9;
+  --bs-warning-border-subtle: #ffe69c;
+  --bs-danger-border-subtle: #f1aeb5;
+  --bs-light-border-subtle: #e9ecef;
+  --bs-dark-border-subtle: #adb5bd;
+  --bs-white-rgb: 255, 255, 255;
+  --bs-black-rgb: 0, 0, 0;
+  --bs-body-color-rgb: 33, 37, 41;
+  --bs-body-bg-rgb: 255, 255, 255;
+  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --bs-body-font-family: var(--bs-font-sans-serif);
+  --bs-body-font-size: 0.8125rem;
+  --bs-body-font-weight: 400;
+  --bs-body-line-height: 1.5;
+  --bs-body-color: #212529;
+  --bs-emphasis-color: #000;
+  --bs-emphasis-color-rgb: 0, 0, 0;
+  --bs-secondary-color: rgba(33, 37, 41, 0.75);
+  --bs-secondary-color-rgb: 33, 37, 41;
+  --bs-secondary-bg: #e9ecef;
+  --bs-secondary-bg-rgb: 233, 236, 239;
+  --bs-tertiary-color: rgba(33, 37, 41, 0.5);
+  --bs-tertiary-color-rgb: 33, 37, 41;
+  --bs-tertiary-bg: #f8f9fa;
+  --bs-tertiary-bg-rgb: 248, 249, 250;
+  --bs-body-bg: #fff;
+  --bs-body-bg-rgb: 255, 255, 255;
+  --bs-link-color: #0d6efd;
+  --bs-link-color-rgb: 13, 110, 253;
+  --bs-link-decoration: underline;
+  --bs-link-hover-color: #0a58ca;
+  --bs-link-hover-color-rgb: 10, 88, 202;
+  --bs-code-color: #d63384;
+  --bs-highlight-bg: #fff3cd;
+  --bs-border-width: 1px;
+  --bs-border-style: solid;
+  --bs-border-color: #dee2e6;
+  --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
+  --bs-border-radius: 0.375rem;
+  --bs-border-radius-sm: 0.25rem;
+  --bs-border-radius-lg: 0.5rem;
+  --bs-border-radius-xl: 1rem;
+  --bs-border-radius-2xl: 2rem;
+  --bs-border-radius-pill: 50rem;
+  --bs-box-shadow: 0 0.5rem 1rem rgba(var(--bs-body-color-rgb), 0.15);
+  --bs-box-shadow-sm: 0 0.125rem 0.25rem rgba(var(--bs-body-color-rgb), 0.075);
+  --bs-box-shadow-lg: 0 1rem 3rem rgba(var(--bs-body-color-rgb), 0.175);
+  --bs-box-shadow-inset: inset 0 1px 2px rgba(var(--bs-body-color-rgb), 0.075);
+  --bs-emphasis-color: #000;
+  --bs-form-control-bg: var(--bs-body-bg);
+  --bs-form-control-disabled-bg: var(--bs-secondary-bg);
+  --bs-highlight-bg: #fff3cd;
+  --bs-breakpoint-xs: 0;
+  --bs-breakpoint-sm: 500px;
+  --bs-breakpoint-md: 768px;
+  --bs-breakpoint-lg: 920px;
+  --bs-breakpoint-xl: 1280px;
+  --bs-breakpoint-xxl: 1400px;
+};
+
+@font-face{
+  font-family: 'Inter400';
+  src: url(../fonts/Inter400.ttf);
+};
+@font-face{
+  font-family: 'Inter500';
+  src: url(../fonts/Inter500.ttf);
+};
+@font-face{
+  font-family: 'Poppins400';
+  src: url(../fonts/Poppins400.woff2);
+};
+@font-face{
+  font-family: 'Poppins500';
+  src: url(../fonts/Poppins500.woff2);
+};
+@font-face{
+  font-family: 'Poppins600';
+  src: url(../fonts/Poppins600.woff2);
+};
+@font-face{
+  font-family: 'DM-mono';
+  src: url(../fonts/dm-mono400.woff2);
+};
+
+body{
+  font-family: 'Inter500', sans-serif !important;
+}
+
+.ff-inter400{
+  font-family: 'Inter400', sans-serif !important;
+}
+.ff-poppins400{
+  font-family: 'Poppins400', sans-serif !important;
+}
+.ff-poppins500{
+  font-family: 'Poppins500', sans-serif !important;
+}
+.ff-poppins600{
+  font-family: 'Poppins600', sans-serif !important;
+}
+.ff-dm-mono400{
+  font-family: 'DM-mono', sans-serif !important;
+}
+.ff-arial{
+  font-family: Arial, sans-serif !important;
+}
+
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer / 4, //4
+  2: $spacer / 2, //8
+  3: $spacer, //16
+  4: $spacer * 1.563,//25
+  5: $spacer * 2.5, //40
+);
+

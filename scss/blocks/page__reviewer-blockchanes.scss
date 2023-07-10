@@ -1,0 +1,84 @@
+h2 {
+    font-size: 29px;
+    line-height: 130%;
+}
+
+h5{
+    line-height: 150%;
+}
+.explore-card__header__arrow{
+    display: none;
+}
+.explore-card-content{
+    background: linear-gradient(115.27deg,#0c0c0c,#0f0f0f);
+    min-height: 215px;
+    cursor: pointer;
+    &:hover{
+        background: linear-gradient(107.34deg,#4409ec,#0e5dec);
+        box-shadow: 0 4px 24px -10px rgba(0,0,0,.4);
+        & .explore-card__header__arrow{
+            display: block;
+        }
+    }
+}
+
+.explore-card__header__text__price{
+    letter-spacing: .08em;
+    line-height: 100%;
+}
+
+.price-usd {
+    color: #fff;
+    letter-spacing: .08em;
+}
+.price-change {
+    letter-spacing: .05em;
+    position: relative;
+}
+.price-change_arrow{
+    margin-top: 2px;
+    transform:rotate(180deg)
+}
+.price-change__arrow--up{
+    transform:rotate(180deg)
+}
+.explore-card__header__arrow {
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.explore-card__values {
+    font-size: 1.3rem;
+    line-height: 100%;
+}
+.explore-card__values__value {
+    letter-spacing: .05em;
+}
+.explore-card__values:not(:nth-child(1)) {
+    margin-top: 10px;
+}
+.page__reviewer-blockchanes {
+    background-color: black;
+    margin-top: -21px;
+    padding-bottom: 90px;
+    padding-top: 90px;
+}
+.explore-card__header__text__badge--new {
+    background-color: var(--bs-blue);
+    border-radius: 15px;
+    margin-left: 2px;
+    padding: 1px 8px 3px;
+}
+//--------------
+.crypto__item:hover{
+
+    & .crypto-img {
+        background-color: var(--bs-gray-900);
+        border-radius: 50%;
+    }
+    & .crypto__title{
+        color: var(--bs-blue);
+    }
+}
+

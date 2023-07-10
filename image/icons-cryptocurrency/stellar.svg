@@ -1,0 +1,13 @@
+<svg width="60" height="60" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M27.8335 55.0179C43.0213 55.0179 55.3335 42.7058 55.3335 27.5179C55.3335 12.3301 43.0213 0.0179443 27.8335 0.0179443C12.6457 0.0179443 0.333496 12.3301 0.333496 27.5179C0.333496 42.7058 12.6457 55.0179 27.8335 55.0179Z" fill="url(#g_logo-stellar0)"/>
+    <path d="M33.6036 18.8448C30.7877 16.9835 27.1536 16.4403 23.7445 17.7017C18.7354 19.5562 15.8922 24.6835 16.7354 29.763" stroke="white" stroke-width="2.8" stroke-miterlimit="10"/>
+    <path d="M21.7285 37.2653C24.5103 39.0062 28.0399 39.488 31.3558 38.2608C36.2922 36.4335 39.1262 31.4267 38.4012 26.4199" stroke="white" stroke-width="2.8" stroke-miterlimit="10"/>
+    <path d="M12.333 31.3926L41.1171 20.738" stroke="white" stroke-width="2.8" stroke-miterlimit="10"/>
+    <path d="M13.856 35.5039L42.6378 24.8516" stroke="white" stroke-width="2.8" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-stellar0" x1="68.5335" y1="48.4179" x2="14.0835" y2="5.51794" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DADADA"/>
+            <stop offset="0.989583" stop-color="#6BA3C2"/>
+        </linearGradient>
+    </defs>
+</svg>

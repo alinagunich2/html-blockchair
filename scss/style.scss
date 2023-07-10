@@ -1,0 +1,19 @@
+
+@import "./vars";
+
+//----------------------------------------------------
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+//---blocks---------------------------
+
+
+@import "./blocks/header";
+
+@import "./blocks/page__reviewer-blockchanes";
+@import "./blocks/page__about";
+@import "./blocks/page__news";
+@import "./blocks/page__service";
+@import "./blocks/footer";
+
+@import "./blocks/second";

@@ -1,0 +1,12 @@
+<svg width="60" height="60" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 40.0179C31.0457 40.0179 40 31.0636 40 20.0179C40 8.97225 31.0457 0.0179443 20 0.0179443C8.9543 0.0179443 0 8.97225 0 20.0179C0 31.0636 8.9543 40.0179 20 40.0179Z" fill="url(#g_logo-dash0)"/>
+    <path d="M16.6764 11.8361H21.8855C25.7437 11.8361 28.6091 15.4088 27.7728 19.1743L26.8164 23.4779C26.2037 26.2361 23.7564 28.1998 20.9309 28.1998H13.04" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M13.3237 20.0179H20.5965" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-dash0" x1="20" y1="0.0179443" x2="20" y2="40.0179" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#2170FF"/>
+            <stop offset="0.0001" stop-color="#617AFF"/>
+            <stop offset="1" stop-color="#21A7F3"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="55" height="55" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M27.5 55.0179C42.6878 55.0179 55 42.7058 55 27.5179C55 12.3301 42.6878 0.0179443 27.5 0.0179443C12.3122 0.0179443 0 12.3301 0 27.5179C0 42.7058 12.3122 55.0179 27.5 55.0179Z" fill="url(#g_logo-monero0)"/>
+    <path d="M12.9995 35.9271H17.545V20.018L28.1131 33.6544L37.9995 20.018V35.9271H42.545" stroke="white" stroke-width="2.8" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-monero0" x1="27.5" y1="27.5179" x2="26.9294" y2="81.4119" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF3797"/>
+            <stop offset="1" stop-color="#FBFF4D"/>
+        </linearGradient>
+    </defs>
+</svg>

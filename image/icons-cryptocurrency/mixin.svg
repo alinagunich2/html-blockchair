@@ -1,0 +1,12 @@
+<svg width="55" height="55" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20.6665 40.0179C31.7122 40.0179 40.6665 31.0636 40.6665 20.0179C40.6665 8.97225 31.7122 0.0179443 20.6665 0.0179443C9.62081 0.0179443 0.666504 8.97225 0.666504 20.0179C0.666504 31.0636 9.62081 40.0179 20.6665 40.0179Z" fill="url(#g_logo-mixin0)"/>
+    <path d="M11.6265 11.8361V28.1998" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M29.8081 11.8362V28.1998" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M15.2627 17.2907L20.7172 13.6544L26.1718 17.2907V22.7453L20.7172 26.3816L15.2627 22.7453V17.2907Z" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-mixin0" x1="11.0665" y1="0.0179443" x2="46.2665" y2="49.6179" gradientUnits="userSpaceOnUse">
+            <stop offset="0.151042" stop-color="#7B70FF"/>
+            <stop offset="1" stop-color="#34C2FF"/>
+        </linearGradient>
+    </defs>
+</svg>

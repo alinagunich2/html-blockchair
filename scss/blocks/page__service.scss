@@ -1,0 +1,37 @@
+.page__services{
+    padding: 90px 0;
+    
+}
+
+.services__title{
+    font-size: 29px;
+}
+.services-item__title{
+    font-size: 23px;
+}
+
+.services__item{
+    background: linear-gradient(115.27deg,#0c0c0c,#0f0f0f);
+    min-height: 500px;
+    cursor: pointer;
+    &:hover{
+        background: linear-gradient(107.34deg,#4409ec,#0e5dec);
+        box-shadow: 0 4px 24px -10px rgba(0,0,0,.4);
+    }
+}
+.services__item{
+    grid-row-gap: 20px;
+    align-items: stretch;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: -webkit-max-content auto;
+    grid-template-rows: max-content auto;
+    height: 100%;
+}
+
+@media(max-width:920px){
+    .services-item__text{
+        margin-top: 0px;
+    }
+}

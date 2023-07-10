@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 43 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20.6665 40.0179C31.7122 40.0179 40.6665 31.0636 40.6665 20.0179C40.6665 8.97225 31.7122 0.0179443 20.6665 0.0179443C9.62081 0.0179443 0.666504 8.97225 0.666504 20.0179C0.666504 31.0636 9.62081 40.0179 20.6665 40.0179Z" fill="url(#g_logo-litecoin)"/>
+    <path d="M19.7573 10.0179L14.3027 28.1998H27.03L28.8482 24.5634" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M21.5758 18.1998L12.4849 21.8361" stroke="white" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-litecoin" x1="40.6665" y1="46.4179" x2="10.6665" y2="4.01795" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#A2FFE9"/>
+            <stop offset="0.994792" stop-color="#36CFFF"/>
+        </linearGradient>
+    </defs>
+</svg>

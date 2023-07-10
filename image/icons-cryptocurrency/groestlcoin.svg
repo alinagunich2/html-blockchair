@@ -1,0 +1,12 @@
+<svg width="60" height="60" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 40.0179C31.0457 40.0179 40 31.0636 40 20.0179C40 8.97225 31.0457 0.0179443 20 0.0179443C8.9543 0.0179443 0 8.97225 0 20.0179C0 31.0636 8.9543 40.0179 20 40.0179Z" fill="url(#g_logo-groestlcoin0)"/>
+    <path d="M19.1982 22.7452C22.2107 22.7452 24.6527 20.3031 24.6527 17.2906C24.6527 14.2781 22.2107 11.8361 19.1982 11.8361C16.1857 11.8361 13.7437 14.2781 13.7437 17.2906C13.7437 20.3031 16.1857 22.7452 19.1982 22.7452Z" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M16.3019 20.927L14.1146 23.6542C13.2346 24.7524 14.0146 26.3815 15.4237 26.3815H24.2419C25.7364 26.3815 26.4855 28.1888 25.4273 29.2452L22.8346 31.8361" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M28.2892 13.6543H24.6528L27.5619 10.0179V8.19971H24.6528V9.1088" stroke="white" stroke-miterlimit="10"/>
+    <defs>
+        <linearGradient id="g_logo-groestlcoin0" x1="40" y1="46.4179" x2="10" y2="4.01795" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#24CBA3"/>
+            <stop offset="0.994792" stop-color="#36C3FF"/>
+        </linearGradient>
+    </defs>
+</svg>

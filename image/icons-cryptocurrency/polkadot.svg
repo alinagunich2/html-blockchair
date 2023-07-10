@@ -1,0 +1,12 @@
+<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="27.5" cy="27.5" r="27.5" fill="url(#polkadot_paint0_linear)"/>
+<path d="M17.9707 28.6088C17.1266 26.951 16.6751 25.0599 16.7386 23.0579C16.9273 17.1048 21.7653 12.2345 27.7169 12.0085C34.2322 11.7611 39.5919 16.9695 39.5919 23.4296C39.5919 29.7421 34.4747 34.8593 28.1621 34.8593L26.4313 34.9296C25.0815 35.0216 23.866 35.7789 23.1884 36.9497L22.2776 41.695" stroke="white" stroke-width="2.8" stroke-miterlimit="10" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M25.6802 24.0417L23.1887 36.95" stroke="white" stroke-width="2.8" stroke-miterlimit="10" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M28.3265 43.2049C29.3731 43.2049 30.2215 42.3565 30.2215 41.3099C30.2215 40.2632 29.3731 39.4148 28.3265 39.4148C27.2798 39.4148 26.4314 40.2632 26.4314 41.3099C26.4314 42.3565 27.2798 43.2049 28.3265 43.2049Z" fill="white"/>
+<defs>
+<linearGradient id="polkadot_paint0_linear" x1="61.4167" y1="21.0833" x2="27.5" y2="55" gradientUnits="userSpaceOnUse">
+<stop offset="0.291667" stop-color="#E6007A"/>
+<stop offset="1" stop-color="#D201BD"/>
+</linearGradient>
+</defs>
+</svg>
